@@ -1,5 +1,7 @@
 # CoffeeFutures
 
+by Laura Kahn
+
 *Algorithmic Trading of Coffee Futures with Machine Learning*
 
 __Abstract__: Data science regression techniques are applied to predict financial commodities prices. Machine learning algorithms are used to predict the daily closing price of coffee futures with a maximum percent prediction error of 0.00328%.
